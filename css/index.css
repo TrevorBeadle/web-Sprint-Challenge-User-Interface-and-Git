@@ -206,47 +206,47 @@ footer nav a {
 }
 
 .about-section {
-    margin:0 0 60px 0;
-    padding:20px 20px 60px 20px;
+    margin: 0 0 60px 0;
+    padding: 20px 20px 60px 20px;
     border-bottom: 1px dashed black;
-    padding-bottom:50px;
+    padding-bottom: 50px;
 }
 
-.img-section{
-    padding:0 10px 0 10px;
-    padding-bottom:50px;
-    display:flex;
-    flex-flow:row wrap;
+.img-section {
+    padding: 0 10px 0 10px;
+    padding-bottom: 50px;
+    display: flex;
+    flex-flow: row wrap;
     justify-content: space-evenly;
 }
 
-.img-section img{
-    width:300px;
-    height:auto;
-    margin-bottom:10px;
+.img-section img {
+    width: 300px;
+    height: auto;
+    margin-bottom: 10px;
 }
 
-.img-section p{
+.img-section p {
     margin-bottom: 40px;
 }
 
-.img-section a{
+.img-section a {
     text-decoration: none;
-    color:black;
-    padding:10px 20px;
-    border:1px solid black;
-    margin-left:20px;
-    border-radius:10px;
+    color: black;
+    padding: 10px 20px;
+    border: 1px solid black;
+    margin-left: 20px;
+    border-radius: 10px;
 }
 
-.img-section div{
-    width:40%;
+.img-section div {
+    width: 40%;
     border-bottom: 1px dashed black;
-    margin-bottom:40px;
-    padding-bottom:40px;
+    margin-bottom: 40px;
+    padding-bottom: 40px;
 }
 
-.last-section{
-    margin:0 0 20px 0;
-    padding:0px 20px 60px 20px;
+.last-section {
+    margin: 0 0 20px 0;
+    padding: 0px 20px 60px 20px;
 }
